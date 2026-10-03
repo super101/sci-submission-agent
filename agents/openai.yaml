@@ -1,0 +1,4 @@
+interface:
+  display_name: "SCI 投稿全流程助手"
+  short_description: "规划期刊选择、检查并撰写 SCI 投稿材料与审稿回复流程"
+  default_prompt: "Use $sci-submission-agent to prepare a journal submission plan and checklist from my manuscript details."
